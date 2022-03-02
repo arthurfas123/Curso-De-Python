@@ -1,0 +1,8 @@
+print('DISSECANDO UMA STRING!!!')
+n = input('Digite algo: ')
+print(type(n))
+print(f'È alfabetico: {n.isalpha()}')
+print(f'È numerico: {n.isnumeric()}')
+print(f'È alfanumerico: {n.isalnum()}')
+print(f'E minusculo: {n.islower()}')
+print(f'È maiusculo: {n.isupper()}')

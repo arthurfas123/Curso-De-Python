@@ -1,0 +1,6 @@
+print('Analizando nomes!!!')
+print('=-=' * 20)
+nome = str(input('Digite um nome: ')).strip().split()
+print('=-=' * 20)
+print(f'Primeiro nome: {nome[0]}')
+print(f'ultimo nome: {nome[len(nome) - 1]}')

@@ -1,0 +1,5 @@
+print('AREA DE PINTURA!!!')
+b = int(input('BASE: '))
+a = int(input('ALTURA: '))
+print(f'A area da parede é {a * b}m.')
+print(f'Sera necessario {a * b / 2}L de tinta.')

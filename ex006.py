@@ -1,0 +1,5 @@
+print('DOBRO TRIPLO RAIZ')
+n = int(input('Digite um numero: '))
+print(f'DOBRO: {n * 2}')
+print(f'TRIPLO: {n * 3}')
+print(f'RAIZ: {n ** (1/2):.2f}')

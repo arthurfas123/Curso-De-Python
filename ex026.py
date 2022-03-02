@@ -1,0 +1,6 @@
+print('Lendo frases!!!')
+print('=-=' * 20)
+frase = str(input('Digite uma frase: ')).upper().strip()
+print(f'A letra A aparece {frase.count("A")} vezes.')
+print(f'A letra A aparece a primeira vez na posiçao {frase.find("A") + 1}.')
+print(f'A letra A aparece a ultima vez na posiçao {frase.rfind("A") + 1}')
