@@ -1,4 +1,4 @@
-# Formatando moeds em python
+# Formatando moedas em python
 from ex108 import moedas
 valor = int(input('Valor: '))
 taxa = int(input('Taxa % : '))
