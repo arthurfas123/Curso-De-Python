@@ -26,6 +26,6 @@ def leiaFloat(msg=''):
             return n
 
 
-inteiro = leiaInt('Digite um valor inteiro: ')
-real = leiaFloat('Digite um valor Real: ')
-print(f'Você digitou o valor Inteiro {inteiro}, e o valor Real {real}.')
+#inteiro = leiaInt('Digite um valor inteiro: ')
+#real = leiaFloat('Digite um valor Real: ')
+#print(f'Você digitou o valor Inteiro {inteiro}, e o valor Real {real}.')

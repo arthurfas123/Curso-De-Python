@@ -1,9 +1,9 @@
 from time import sleep
 c = ('\033[m',         # 0 sem cor
-     '\033[0;30;41m',  # 1 vermelho
-     '\033[0;30;42m',  # 2 verde
+     '\033[0;31;40m',  # 1 vermelho
+     '\033[0;32;40m',  # 2 verde
      '\033[7;40m',      # 3 branco
-     '\033[0;30;44m'    # 4 azul
+     '\033[0;34;40m'    # 4 azul
     )
 
 
